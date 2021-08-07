@@ -1,1 +1,3 @@
 first line added to this file on conflict_2 branch
+This is the first line added on conflict_1 branch for testing git conflict.
+s
